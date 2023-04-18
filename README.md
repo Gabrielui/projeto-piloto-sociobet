@@ -1,2 +1,2 @@
-# projeto-piloto-sociobet
+# socio-bet2
 Landing page 
